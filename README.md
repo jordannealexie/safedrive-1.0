@@ -1,4 +1,4 @@
-<h1 align="center"> SafeDrive V1</h1>
+<h1 align="center"> SafeDrive 1.0</h1>
 
 <p align="center">
   <b>Driver Drowsiness Monitoring System</b>

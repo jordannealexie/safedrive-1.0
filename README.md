@@ -91,4 +91,7 @@ SafeDrive/
 │   ├── js/
 │   ├── assets/
 │   └── index.html
+```
 
+##  Author
+Jordanne Alexie M. Bartolome

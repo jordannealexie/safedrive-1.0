@@ -58,7 +58,7 @@ It integrates a responsive frontend interface with backend services to provide s
 ### 1️ Clone the Repository
 
 ```bash
-git clone https://github.com/jordannealexie/SafeDrive.git
+git clone https://github.com/jordannealexie/safedrive-1.0.git
 cd SafeDrive
 
 2️⃣ Run Backend Server
